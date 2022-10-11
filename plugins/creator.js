@@ -22,29 +22,29 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Aldi
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Pria
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
+let teksbio = `┆⫹⫺ 💌 Nama : Yuzu 
+┆⫹⫺ ✉️ Nama RL : -
+┆⫹⫺ ♂️ Gender : -
+┆⫹⫺ 🕋 Agama : -
+┆⫹⫺ ⏰ Tanggal lahir : 13 - 04 
+┆⫹⫺ 🎨 Umur : - 
+┆⫹⫺ 🧮 Kelas : -
+┆⫹⫺ 🧩 Hobby : Random
+┆⫹⫺ 💬 Sifat : Dingin🥶🙏
+┆⫹⫺ 🗺️ Tinggal : Isekai
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
-┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
+let teksbio2 = `┆⫹⫺ 💌 
+┆⫹⫺ ✉️ Nama RL : 
+┆⫹⫺ ♂️ Gender :
+┆⫹⫺ 🕋 Agama : 
+┆⫹⫺ ⏰ Tanggal lahir :
+┆⫹⫺ 🎨 Umur : 
+┆⫹⫺ 🧮 Kelas : 
+┆⫹⫺ 🧩 Hobby : 
+┆⫹⫺ 💬 Sifat : 
+┆⫹⫺ 🗺️ Tinggal : 
 └––––––––––––·•
 `
 
@@ -54,7 +54,7 @@ let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
 𐚀 Oᴡɴᴇʀ Bᴇʀʜᴀᴋ Bʟᴏᴄᴋ Sɪᴀᴘᴀ Sᴀᴊᴀ
 𐚀 Gᴀᴋ Rᴇsᴘᴏɴᴅ Kᴀʟᴏ Mɪɴᴛᴀ Sᴄ
 𐚀 Eᴛɪᴋᴀɴʏᴀ Dɪᴘᴀᴋᴇ
-𐚀 Cʜᴇᴛ Cᴇᴡᴇ Gᴡ Aɴᴇʜ Aɴᴇʜ Gᴡ Bᴜᴀᴛ Tɪᴅᴜʀ Lᴜ
+𐚀 OWNER COOL BANGET COYY, 
 𐚀 Cʜᴇᴛ Aɴᴇʜ Gᴀᴋ Jᴇʟᴀs Bᴀɴ/Bʟᴏᴄᴋ
 𐚀 Cᴀʟʟ Bʟᴏᴄᴋ\n⫹ Kᴇᴛɪ *.rules* Uɴᴛᴜᴋ Mᴇʟɪʜᴀᴛ Rᴜʟᴇs Sᴇʟᴇɴɢᴋᴀᴘɴʏ ⫺`
 const sections = 
